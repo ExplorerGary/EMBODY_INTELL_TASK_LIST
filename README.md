@@ -1,4 +1,4 @@
-# EMBODY_INTELL_EXPORT
+# EMBODY_INTELL_TASK_LIST
 
 ## Overview
 This repo recorded my exploration of embodied intelligence. Documentation is organized as follows:
