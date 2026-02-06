@@ -1,0 +1,11 @@
+# EMBODY_INTELL_EXPORT
+
+## Overview
+This repo recorded my exploration of embodied intelligence. Documentation is organized as follows:
+
+## Project Structure
+
+### Documentation
+- **README.md** - Project overview and setup instructions
+- **papers/paper_reading.ipynb** - The paper I found interesting
+- **report.ipynb** - Experimental findings
