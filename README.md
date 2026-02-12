@@ -1,7 +1,7 @@
 # EMBODY_INTELL_TASK_LIST
 
 ## Overview
-This repo recorded my exploration of embodied intelligence. Documentation is organized as follows:
+This repo recorded Ziqi Gu's exploration of embodied intelligence. Documentation is organized as follows:
 
 ## Project Structure
 
